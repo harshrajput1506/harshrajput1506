@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajput1506&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajput1506" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Android Development, NodeJs**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **harshrajput2906@gmail.com**
 
