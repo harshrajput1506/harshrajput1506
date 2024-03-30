@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **harshrajput2906@gmail.com**
 
-- 📄 Know about my experiences [Resume Here](https://drive.google.com/file/d/1a1lYTMLfc0S9f9HkOH-6w6G143za2dae/view)
-
+- 📄 Know about my experiences [My Portfolio](https://harsh-rajput-portfolio.vercel.app/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-rajput-simple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-rajput-simple" height="30" width="40" /></a>
