@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **harshrajput2906@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UIEnEpu-sWQdT2QhStY9YRNYUuHnmogm/view](https://drive.google.com/file/d/1UIEnEpu-sWQdT2QhStY9YRNYUuHnmogm/view)
+- 📄 Know about my experiences [Resume Here](https://drive.google.com/file/d/1a1lYTMLfc0S9f9HkOH-6w6G143za2dae/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
