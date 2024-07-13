@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrajput1506&label=Profile%20views&color=0e75b6&style=flat" alt="harshrajput1506" /> </p>
 
-- 🌱 I’m currently learning **Go, React Native**
+- 🌱 I’m currently learning **Go, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://harsh-rajput-portfolio.vercel.app/](https://harsh-rajput-portfolio.vercel.app/)
 
